@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## unit testing using bloc_test
+
+1. there should be only main function inside each test file.
+2. main function is responsible to execute all the test cases.
+3. to organize our test cases better we organize our test cases using groups.
